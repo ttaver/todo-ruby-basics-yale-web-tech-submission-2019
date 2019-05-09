@@ -10,7 +10,7 @@ def argue
   argument
 end
 
-def greeting
+def greeting(greeting, name)
  puts "#{greeting}, #{name}"
 end
 
